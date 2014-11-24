@@ -3,13 +3,10 @@ Chitter
 
 This is our 4th week challenge at Makers
 
-=====================================
-
 Our project involves creating a twitter clone, which allows people to "tweet" to a timeline and log in and out. 
 
-====================
 
-Featuers
+Features
 ========
 
 - User can sign up
@@ -19,7 +16,6 @@ Featuers
 - User's message will have chitter handel and name
 - User will be able to see other users Cheets! 
 
-=============================================
 
 Bonus
 =====
