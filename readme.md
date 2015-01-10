@@ -1,7 +1,7 @@
 Chitter
 =====================================
 
-This is our 4th week challenge at Makers
+This is our 4th week challenge at Makers Academy
 
 Our project involves creating a twitter clone, which allows people to "tweet" to a timeline and log in and out. 
 
